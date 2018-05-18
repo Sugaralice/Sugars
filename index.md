@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Sugaralice/Sugars/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sugaralice/Sugars/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个网页</title>
+    <style>
+        h1{
+            font-size: 50px;
+            color: black;
+        }
+        .green{
+            color: green;
+        }
+        #red{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<h1 ><strong><em ><a name="1">我的学习之路</a></em></strong></h1>
+<h2 style="color: red">叶成陶</h2>
+<hr>
+<p class="green">
+    &nbsp;今天是我学习XHTML的第一天，<br>
+    我的感觉很奇妙，<br>
+    我希望我能更快的掌握这些知识，<br>
+    嗯，就这样。
+<p>2018.5.12</p>
+    <br>
+<img src="../image/tx.jpg" alt="不让你看见"width="500"height="250">
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a id="red" href="../百度/s.htm"target="_blank">汶川十周年</a>
+<a href="#1">返回顶端</a>
+&nbsp;&nbsp;&quot &copy;版权所有，翻版必究 &quot;
+</body>
+</html>
